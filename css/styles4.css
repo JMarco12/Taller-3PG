@@ -1,0 +1,10 @@
+table {
+    border-color: black;
+    height: 100px;
+    width: 700px;
+}
+
+td {
+    font-weight: bold;
+    font-family: serif;
+}
